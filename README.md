@@ -8,3 +8,5 @@ php for back end
 
 v2 
 - can save image
+-can format text
+-custom built right click menu
